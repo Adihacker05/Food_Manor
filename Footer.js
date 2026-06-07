@@ -20,7 +20,7 @@ const Footer = () => {
                           <span className="text-red-500 animate-pulse">❤</span>{" "}
                           by{" "}
                           <span className="font-semibold text-orange-500">
-                              Anurag
+                              Aditya
                           </span>
                       </p>
                   </div>
