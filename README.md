@@ -37,7 +37,7 @@
 
 ### 1. Clone the Repository
 
-git clone https://github.com/Algoraver22/Food_Manor.git
+git clone https://github.com/Adihacker05/Food_Manor.git
 cd Food_Manor
 
 ### 2. Install Dependencies
