@@ -62,7 +62,7 @@ cd Food_Manor
 ---
 
  ## 🧑‍💻 Author
-- Built with 🍔, ☕, and React ⚛️ by Anurag Chaturvedi
+- Built with 🍔, ☕, and React ⚛️ by Aditya Kumar
 
 ---
 ## 📜 License
